@@ -31,8 +31,8 @@ header {
 }
 
 header .logo {
-  width: 90px;
-  margin-bottom: 15px;
+  width: 200px;
+  margin-bottom: auto;
 }
 
 nav {
